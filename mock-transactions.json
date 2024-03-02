@@ -1,0 +1,35 @@
+[
+    {
+      "date": "2024-01-04T00:00:00.000Z",
+      "description": "Description 1",
+      "amount": 100,
+      "category": "Category 1",
+      "type": "income",
+      "status": "completed"
+    },
+    {
+      "date": "2024-01-02T00:00:00.000Z",
+      "description": "Description 2",
+      "amount": 200,
+      "category": "Category 2",
+      "type": "outcome",
+      "status": "completed"
+    },
+    {
+      "date": "2024-01-01T00:00:00.000Z",
+      "description": "Description 3",
+      "amount": 300,
+      "category": "Category 3",
+      "type": "income",
+      "status": "pending"
+    },
+    {
+      "date": "2024-01-03T00:00:00.000Z",
+      "description": "Description 4",
+      "amount": 400,
+      "category": "Category 4",
+      "type": "outcome",
+      "status": "completed"
+    }
+  ]
+  
